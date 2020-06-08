@@ -1,3 +1,5 @@
-# Welcome to my blog
+# My Current Projects
 
-I'm glad you are here. I plan to talk about ...
+See the projects that I am currently working on:
+- [ ] learning github pages
+- [ ] learning markdown language 
